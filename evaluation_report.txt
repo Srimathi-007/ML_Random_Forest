@@ -1,0 +1,15 @@
+Random Forest Classifier Evaluation Report
+=========================================
+
+Accuracy: 99.0000%
+
+Classification Report:
+              precision    recall  f1-score   support
+
+   High Risk       0.98      0.97      0.97        60
+      Normal       1.00      1.00      1.00       240
+     Warning       0.98      0.98      0.98       100
+
+    accuracy                           0.99       400
+   macro avg       0.99      0.98      0.98       400
+weighted avg       0.99      0.99      0.99       400
